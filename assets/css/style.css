@@ -26,16 +26,16 @@ h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+ h1 .seo {
     color: #d9dcd6;
 }
 
 
-header ul {
+ul {
     list-style-type: none;
 }
 
-header ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
